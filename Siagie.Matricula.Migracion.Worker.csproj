@@ -10,4 +10,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Siagie.Matricula.Migracion.Dto\Siagie.Matricula.Migracion.Dto.csproj" />
+  </ItemGroup>
 </Project>
